@@ -1,0 +1,16 @@
+.ErrorPage
+{
+    color: red;
+    font-weight: bolder;
+    font-size: x-large;
+    
+}
+.successPage
+{
+    color:green;
+    font-weight: bolder;
+    font-size: x-large;
+}
+.errorMsg{
+    color:red;
+}

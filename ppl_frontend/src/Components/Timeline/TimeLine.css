@@ -1,0 +1,29 @@
+.success{
+    color: green;
+    font-weight: bolder;
+    text-align: center;
+}
+.error{
+    color: red;
+    font-weight: bolder;
+    text-align: center;
+}
+.border{
+    height: fit-content;
+    padding: 2%;
+    width: 309px;
+    border: 2px solid orange;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+
+}
+.center
+{
+    /* align-content: center; */
+    align-items: center;
+    margin: 2px;
+}
+.content-margin{
+    margin-top: 4px;
+}
